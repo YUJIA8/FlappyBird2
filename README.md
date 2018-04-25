@@ -1,7 +1,7 @@
 # FlappyBird2
 For EC500 project
 
-![]()
+![](https://github.com/YUJIA8/FlappyBird2/blob/master/startmenu.png)
 
 The zip file is for mac, you need to unzip it. And the exe file is for pc.
 
