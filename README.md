@@ -16,3 +16,7 @@ If you have any suggestions. Just post it on the issues.
 And I'll post the c# scripts in a few hours.
 
 Have fun!
+
+
+version0.1: a basic game, adding score doesn't work well.
+version0.4: two controller players game, with adding score working well and coins and showing scores, etc. Still has bug to deal with.
