@@ -1,3 +1,5 @@
+Attention that the pc version does not work well, probabaly because I'm using mac to build the pc version. I'll try to find a pc to build it again.
+
 # FlappyBird2
 For EC500 project
 
