@@ -1,4 +1,4 @@
-Attention that the pc version does not work well, probabaly because I'm using mac to build the pc version. I'll try to find a pc to build it again.
+##### Attention that FlappyJet_pc_newest_version.zip is for PC and FlappyJet_v0.4.app.zip is for mac. They are all the newest version and passed the bug test. Have fun!
 
 # FlappyBird2
 For EC500 project
